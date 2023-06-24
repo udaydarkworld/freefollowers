@@ -62,6 +62,8 @@ wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/maxphisher.py &
 
  - `sudo docker pull kasroudra/maxphisher`
  - `sudo docker run --rm -it kasroudra/maxphisher`
+ - `sudo docker cp $(sudo docker ps | grep maxphisher | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
+
 
 
 ### Support
