@@ -1,18 +1,18 @@
-<h1 align="center">MaxPhisher</h1>
+<h1 align="center">darkwrld</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/udaydarkworld/freefollowers?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/udaydarkworld/freefollowers?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/udaydarkworld/freefollowers?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/udaydarkworld/freefollowers?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/udaydarkworld/freefollowers?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/udaydarkworld/freefollowers.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/udaydarkworld/darkworld?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forkss/udaydarkworld/darkworl?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/udaydarkworld/darkworl?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/udaydarkworld/darkworl?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/udaydarkworld/darkworl?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/udaydarkworld/darkworl.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-udaydarkworld-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-Russia-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
